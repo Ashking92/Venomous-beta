@@ -57,20 +57,20 @@ npm start
 
 
 
-Usage
+### Usage
 
 	1.	Open Venomous and sign in with your Instagram account.
 	2.	Explore exclusive features across chat, reels, notes, and profile sections.
 	3.	Enable custom notifications to stay updated with your Instagram activity in real-time.
 
-Technologies Used
+### Technologies Used
 
 	•	Frontend: React.js (or React Native for mobile support)
 	•	Backend: Firebase (Authentication, Database, Notifications)
 	•	APIs: Instagram API, Firebase API
 	•	Other Tools: Node.js, Express (for server-side, if applicable)
 
-Contributing
+#### Contributing
 
 We welcome contributions to improve Venomous! Please follow these steps:
 
@@ -79,7 +79,7 @@ We welcome contributions to improve Venomous! Please follow these steps:
 	3.	Commit your changes.
 	4.	Push your branch and create a pull request.
 
-License
+## License
 
 Venomous is licensed under the MIT License. See the LICENSE file for more details.
 
